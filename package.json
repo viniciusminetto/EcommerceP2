@@ -1,5 +1,5 @@
 {
-  "name": "ecommerce",
+ "name": "ecommerce",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -17,5 +17,6 @@
     "@vitejs/plugin-vue": "^5.2.3",
     "vite": "^6.2.4",
     "vite-plugin-vue-devtools": "^7.7.2"
+
   }
 }
